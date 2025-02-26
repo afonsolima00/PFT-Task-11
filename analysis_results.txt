@@ -1,0 +1,47 @@
+ECONOMIC INDICATORS AND ASSET RETURNS ANALYSIS
+==========================================
+
+Analysis Period: 2024-03-31 to 2025-01-31
+Number of data points after preprocessing: 11
+
+CORRELATION ANALYSIS
+-------------------
+Correlation between CPI change and S&P 500 returns: -0.3028
+Correlation between Unemployment change and S&P 500 returns: 0.4490
+Correlation between CPI change and Bitcoin returns: 0.3788
+Correlation between Unemployment change and Bitcoin returns: 0.0473
+
+REGRESSION ANALYSIS - S&P 500
+---------------------------
+R-squared: 0.2025
+Adjusted R-squared: 0.0031
+F-statistic: 1.0157 (p-value: 0.4045)
+
+Coefficients:
+Constant: 0.012237 (p-value: 0.6473)
+CPI change: 0.927434 (p-value: 0.9273)
+Unemployment change: 0.174945 (p-value: 0.3225)
+
+REGRESSION ANALYSIS - Bitcoin
+---------------------------
+R-squared: 0.3563
+Adjusted R-squared: 0.1953
+F-statistic: 2.2137 (p-value: 0.1717)
+
+Coefficients:
+Constant: -0.110383 (p-value: 0.2189)
+CPI change: 66.422583 (p-value: 0.0692)
+Unemployment change: 0.867050 (p-value: 0.1426)
+
+INTERPRETATIONS & TRADING SIGNALS
+-------------------------------
+CPI change does not significantly predict S&P 500 returns.
+Unemployment change does not significantly predict S&P 500 returns.
+CPI change does not significantly predict Bitcoin returns.
+Unemployment change does not significantly predict Bitcoin returns.
+
+POTENTIAL TRADING SIGNALS
+-----------------------
+- Rising inflation may drive Bitcoin returns higher.
+
+Analysis completed on: 2025-02-26 11:10:17
