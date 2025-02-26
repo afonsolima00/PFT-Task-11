@@ -10,7 +10,7 @@ import seaborn as sns
 import os
 
 # Step 1: Set API keys
-fred_api_key = '28e06e7d302abe40f5c313ffe9e16beb'  # Your FRED API key
+fred_api_key = 'INSERT_YOUR_PRIVATE_KEY'  # Your FRED API key
 coingecko_api_url = 'https://api.coingecko.com/api/v3'
 
 # Step 2: Initialize Fred
